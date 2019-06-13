@@ -1,0 +1,11 @@
+a.app-name{
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #aaaaaa;
+}
+
+a.app-name:hover{
+    font-size: 1.75rem;
+    font-weight: 700;
+    color:#75ba48;
+}
