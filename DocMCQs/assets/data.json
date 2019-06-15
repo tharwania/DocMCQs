@@ -1,0 +1,699 @@
+[  
+    {  
+       "question":"A 45 year old man with severe pain and redness at the metatarsophalangeal joint of his right big toe comes to the Emergency Department. He has never suffered from any form of arthritis before. He has hypertension and was recently started on bendroflumethiazide by his GP. What is the SINGLE most appropriate management?",
+       "choices":[  
+          {  
+             "text":"Paracetamol                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Allopurinol                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Methotrexate\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"NSAIDS                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Flucloxacillin                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":4,
+       "explanation":"The diagnosis here is gout. NSAIDS are given for acute attacks.Gout",
+       "links":[  
+          {  
+             "text":"Gout",
+             "link":"https://plabable.com/comparisons/preview/137"
+          }
+       ]
+    },
+    {  
+       "question":"A 26 year old lady presents with worsening lower abdominal pain and purulent vaginal discharge. She was recently treated for pelvic inflammatory disease with antibiotics as an outpatient but did not complete her course of antibiotics. A urine HCG is negative. Cervical motion tenderness was noted when doing a pelvic examination. She has a temperature of 38.6°C and a pulse rate of 95 beats/minute. What is the SINGLE most appropriate action?",
+       "choices":[  
+          {  
+             "text":"Obtain triple swabs and await results of sensitivities to determine appropriate antibiotics to prescribe                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Prescribe oral doxycycline 100mg BD and oral metronidazole 400mg BD                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Prescribe intravenous ceftriaxone 2g OD with oral doxycycline 100mg BD\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Prescribe intravenous ceftriaxone 2g OD only                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Prescribe oral ofloxacin 400mg BD and oral metronidazole 400mg BD                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":3,
+       "explanation":"This patient clearly needs to be admitted for antibiotics. An outpatient therapy has already failed. She has signs and symptoms of pelvic inflammatory disease. She has a high temperature and tachycardia.  One of the more common inpatient regimens for pelvic inflammatory disease is IV ceftriaxone 2g daily plus IV doxycycline 100mg twice daily (oral doxycycline may be used if tolerated) followed by oral doxycycline 100mg twice daily plus oral metronidazole 400mg twice daily for a total of 14 days. Intravenous therapy should be continued until 24 hours after clinical improvement and then switched to oral.   Although it's stated that we use intravenous doxycycline as part of the antibiotic regimen, this is usually not the case as Intravenous doxycycline is not currently licensed in the UK.  Whist taking triple swabs is appropriate, we should not wait for results before commencing antibiotics. Antibiotics should be commenced immediately as to avoid complications such as tubo-ovarian abscess or tubal damage leading to infertility. Once culture and sensitivity results are available, change of antibiotics may be required. The change usually involves ofloxacin as Gonorrhoea is increasingly resistant to fluoroquinolone in the UK.OPTIONS FOR MANAGEMENT OF PIDOutpatient management of PIDIM ceftriaxone stat plus oral doxycycline and oral metronidazole for 14 days; orOfloxacin and metronidazole orally for 14 days  Inpatient management of PIDIV ceftriaxone and IV doxycycline followed by oral doxycycline and oral metronidazole for 14 days; orIV ofloxacin and IV metronidazole for a total of 14 daysPelvic inflammatory disease (PID)",
+       "links":[  
+          {  
+             "text":"Pelvic inflammatory disease (PID)",
+             "link":"https://plabable.com/comparisons/preview/168"
+          }
+       ]
+    },
+    {  
+       "question":"A 24 year old male presents to A&E with 40% partial thickness burns. His pulse rate is 105 bpm and respiratory rate is 25 breaths per minute. His systolic blood pressure is 80 mmHg. What is the SINGLE most appropriate management?",
+       "choices":[  
+          {  
+             "text":"Intravenous fluids calculated from the time of hospital arrival                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Intravenous fluids calculated from the time of burn                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Oral rehydration\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Intravenous dextrose stat                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Ointments                                                             ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":2,
+       "explanation":"Remember that Parkland formula is calculated from the time of the burn rather than the time of presentation.Remember that Parkland formula is calculated from the time of the burn rather than the time of presentation.Parkland Formula",
+       "links":[  
+          {  
+             "text":"Parkland Formula",
+             "link":"https://plabable.com/comparisons/preview/100"
+          }
+       ]
+    },
+    {  
+       "question":"A 24 year old woman has been brought to the emergency department having taken 36 tablets of paracetamol following an argument with her partner. She weighs 60 kg. She has no previous psychiatric history and is physically well. What is the SINGLE most appropriate management?",
+       "choices":[  
+          {  
+             "text":"Refer to social worker                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Admit to psychiatric ward                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Discharge home with advice\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Refer to clinical psychologist                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Admit to medical ward                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":5,
+       "explanation":"36 tablets of paracetamol is 18g. Remember, 1 tablet is 500mg. Generally, if one takes more than 24 tablets (12g), we admit.Paracetamol poisoning is always dealt in the medical ward (not psychiatry ward). Only once treated and stable can they move to a psychiatric ward for evaluation.Paracetamol (acetaminophen) poisoningParacetamol overdose diagram",
+       "links":[  
+          {  
+             "text":"Paracetamol (acetaminophen) poisoning",
+             "link":"https://plabable.com/comparisons/preview/148"
+          },
+          {  
+             "text":"Paracetamol overdose diagram",
+             "link":"https://plabable.com/comparisons/preview/200"
+          }
+       ]
+    },
+    {  
+       "question":"A 24 year old woman was prescribed azithromycin for a sexually transmitted infection. She has been using a form of contraception for the past year. Which SINGLE most likely contraceptive method is likely to be affected by azithromycin?",
+       "choices":[  
+          {  
+             "text":"Mirena coil (IUS)                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Intrauterine Contraceptive Device (IUCD)                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Progestogen-only pill (POP)\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Combined oral contraceptive pill (COCP)                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"None of the above                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":5,
+       "explanation":"It was previously thought that hepatic enzyme inhibitor drugs (like azithromycin) may affect COCP but was later discovered that that there were no significant interaction One of the commonly asked drugs that have interactions with COCP is rifampicin. Combined hormonal contraceptives are less reliable during treatment with rifampicin. Breakthrough bleeding and spotting are common, and pregnancies have occurred when patient is on rifampicin and COCP.Oral contraception interaction and hepatic enzyme inducers",
+       "links":[  
+          {  
+             "text":"Oral contraception interaction and hepatic enzyme inducers",
+             "link":"https://plabable.com/comparisons/preview/62"
+          }
+       ]
+    },
+    {  
+       "question":"A 4 year old child is brought by his parents with a clean wound on his leg. He has never been immunised as his parents were worried about the side effects of the immunisations in the past. There are no contraindications to immunisation and the parents of the child are now open to the idea. The child's parents would like advice on the best method to reduce risk of infections. What is the SINGLE most appropriate action?",
+       "choices":[  
+          {  
+             "text":"Offer full course of diphtheria, pertussis, tetanus (DTP) vaccine                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Offer rabies vaccination                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Offer 1 single injection diphtheria, pertussis, tetanus (DTP) vaccine\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Offer intramuscular tetanus immunoglobulinss                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Offer oral antibiotics                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":1,
+       "explanation":"A full course of DPT vaccine would be appropriate to prevent tetanus in future. Children aged under 10 years if miss the vaccine can resume the schedule with the primary immunisation (first 3 doses). There should be a minimum for one month in between doses of the vaccine. This is then followed by the first booster immunisation which is 3 years after the primary immunisation in children under 10 years of age. The second booster immunisation is given 10 years after the first booster.A full course of DPT vaccine would be appropriate to prevent tetanus in future. Children aged under 10 years if miss the vaccine can resume the schedule with the primary immunisation (first 3 doses). There should be a minimum for one month in between doses of the vaccine. This is then followed by the first booster immunisation which is 3 years after the primary immunisation in children under 10 years of age. The second booster immunisation is given 10 years after the first booster.Tetanus prophylaxis",
+       "links":[  
+          {  
+             "text":"Tetanus prophylaxis",
+             "link":"https://plabable.com/comparisons/preview/236"
+          }
+       ]
+    },
+    {  
+       "question":"A 32 year old man presents with painless haematuria and flank pain. His blood pressure readings are 155/98 mmHg, 160/88 mmHg and 165/95 mmHg. The rest of the physical examination was otherwise unremarkable. What is the SINGLE most likely diagnosis?",
+       "choices":[  
+          {  
+             "text":"Bladder cancer                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Adult polycystic kidney disease                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Thrombotic thrombocytopenic purpura (TTP)\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Prostate cancer                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Haemolytic uraemic syndrome (HUS)                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":2,
+       "explanation":"For the purpose of the examination, scenarios with haematuria + hypertension are almost always polycystic kidney disease (PKD). Polycystic kidneys may occasionally be palpable but are often not.Questions often ask about screening test for PKD and give you an option between genetic testing for PKD1 or an ultrasound scan. The answer should always be an ultrasound scan. Genetic testing for PKD1 is difficult as the gene is large and there are hundreds of described mutations. Ultrasound scan screening offers good sensitivity and specificity. Autosomal dominant polycystic kidney disease",
+       "links":[  
+          {  
+             "text":"Autosomal dominant polycystic kidney disease",
+             "link":"https://plabable.com/comparisons/preview/323"
+          }
+       ]
+    },
+    {  
+       "question":"A 35 year old lady had an emergency C-section following an obstructed labour. Three days post-op she develops a sudden onset of left sided chest pain associated with breathlessness. Her heart rate is 105 beats/minute. Her left leg is swollen and is pain on palpation. What is the SINGLE best investigation to provide a definitive diagnosis? ",
+       "choices":[  
+          {  
+             "text":"Arterial blood gases                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Chest X-ray                                                         ",
+             "value":2
+          },
+          {  
+             "text":"CT pulmonary angiogram (CTPA)\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"D-dimer                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Electrocardiogram (ECG)                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":3,
+       "explanation":"CTPA is the answer here as it is the best test among the other options which provide a definitive diagnosis of pulmonary embolism.Two-level PE Wells scoreClinical featurePointsClinical signs and symptoms of DVT (minimum of leg swelling and pain with palpation of the deep veins)3An alternative diagnosis is less likely than PE3Heart rate > 100 beats per minute1.5Immobilisation for more than 3 days or surgery in the previous 4 weeks1.5Previous DVT/PE1.5Haemoptysis1Malignancy (on treatment, treated in the last 6 months, or palliative)1Clinical probability simplified scoresPE likely - more than 4 pointsPE unlikely - 4 points or lessMore than 4 points → Arrange an immediate computed tomography pulmonary angiogram (CTPA)4 points or less → Arranged a D-dimer test. If this is positive arrange an immediate computed tomography pulmonary angiogram (CTPA)If anytime there is a delay in getting the CTPA → Give low-molecular weight heparin until the scan is performedIf the patient has an allergy to contrast media or renal impairment → A V/Q scan should be used instead of a CTPAFurther reading:http://cks.nice.org.uk/pulmonary-embolism#!scenariohttps://www.rcog.org.uk/globalassets/documents/guidelines/gtg-37b.pdfMore on Pulmonary Embolism and Pregnancy",
+       "links":[  
+          {  
+             "text":"http://cks.nice.org.uk/pulmonary-embolism#!scenario",
+             "link":"http://cks.nice.org.uk/pulmonary-embolism#!scenario"
+          },
+          {  
+             "text":"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg-37b.pdf",
+             "link":"https://www.rcog.org.uk/globalassets/documents/guidelines/gtg-37b.pdf"
+          },
+          {  
+             "text":"More on Pulmonary Embolism and Pregnancy",
+             "link":"https://plabable.com/comparisons/preview/145"
+          }
+       ]
+    },
+    {  
+       "question":"A 73 year old woman living in a nursing home, presents with rashes on her finger webs and also at her axillary folds. She complaints of itching which is more severe at night. What is the SINGLE most appropriate management? ",
+       "choices":[  
+          {  
+             "text":"0.5% permethrin                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Doxycycline                                                         ",
+             "value":2
+          },
+          {  
+             "text":"5% permethrin\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Aciclovir                                                           \n                              \n                              \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Malathion 0.5%                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":3,
+       "explanation":"In PLAB, when you see an elderly living in a nursing home with rashes, think of scabiesPermethrin 5% is probably the only treatment that would be asked in PLAB for scabiesScabies is a parasitic skin infection characterized by superficial burrows, intense pruritus, and secondary infections Sarcoptes scabiei. Transmitted by skin-to-skin contact.Pruritus, burrows, papules, commonly found on flexor surfaces of wrists, finger webs, elbows, axillary folds, areola of the breast in women, and genitals of the males. Scabies digs into the skin at the skin folds. Patients who are immunocompromised or debilitated may develop a severe form of scabies called Norwegian scabies (crusted scabies). These patients present with diffuse cutaneous involvement with crusting and malodorous discharge.Scabies treatment is with permethrin 5% which is first-line (malathion 0.5% is second-line)Note: all household and close physical contacts should be treated at the same time, even if asymptomatichttps://www.nice.org.uk/about/nice-communities/medicines-and-prescribinghttp://pmj.bmj.com/content/80/945/382.fullhttp://pmj.bmj.com/content/81/951/7.full",
+       "links":[  
+          {  
+             "text":"https://www.nice.org.uk/about/nice-communities/medicines-and-prescribing",
+             "link":"https://www.nice.org.uk/about/nice-communities/medicines-and-prescribing"
+          },
+          {  
+             "text":"http://pmj.bmj.com/content/80/945/382.full",
+             "link":"http://pmj.bmj.com/content/80/945/382.full"
+          },
+          {  
+             "text":"http://pmj.bmj.com/content/81/951/7.full",
+             "link":"http://pmj.bmj.com/content/81/951/7.full"
+          }
+       ]
+    },
+    {  
+       "question":"A 44 year old man slipped while he was coming down the stairs and he fell on his outstretched arm. X-rays demonstrate an oblique fracture of the middle to distal thirds of the humerus. He is unable to dorsiflex his right wrist. What is the SINGLE most likely associated nerve injury?",
+       "choices":[  
+          {  
+             "text":"Radial nerve                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Musculocutaneous nerve                                                          \n                              \n                                                           ",
+             "value":2
+          },
+          {  
+             "text":"Median nerve\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Ulnar nerve                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Axillary nerve                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":1,
+       "explanation":"The X-ray findings alone which show a humeral shaft fracture already gives you the answer (a radial nerve injury). If you go on reading, this question gives you a second clue which is a wrist drop (he is unable to dorsiflex his wrist) which is classic for a radial nerve injuryFracture of the humeral shaft is often caused by a fall on an outstretched arm. These fractures can injure the radial nerve, which courses in a spiral groove right around the posterior aspect of that bone. The management of humeral shaft fracture is not commonly asked in exam but you may want to know it for your own knowledge:Nonoperative management is adequate for more than 90% of these fractures. Hanging arm cast or coaptation splint are used, and the nerve function returns eventually. Surgical management may sometimes be needed but are uncommon. These surgical options include intramedullary nailing and compression plating. Returning muscular function is usually seen within 4 to 8 months.It is important to remember the key phrases for nerve damage during PLAB. There are certain phrases you need to memorise to relate it to a specific nerve damages. Examples:Wrist drop → Radial nerveFoot drop → Either common peroneal nerve or sciatic nerveClaw hand → Ulnar nerveParaesthesia of thumb, index and middle finger → Median nerveNumbness on superior aspect of upper arm just below shoulder joint → Axillary nerveFibular neck fracture → Common peroneal nerveFemur neck fracture or Acetabular fractures → Sciatic nerveFracture of humeral shaft → Likely Radial nerve Fracture of humeral neck → Likely Axillary nerveMonteggia fracture → Radial nerveParaesthesia and impaired sensation in both hands (glove distribution) → Peripheral neuropathyFracture of humeral shaft → Likely Radial nerve Fracture of humeral neck → Likely Axillary nerveMonteggia fracture → Radial nerveParaesthesia and impaired sensation in both hands (glove distribution) → Peripheral neuropathyRadial nerve",
+       "links":[  
+          {  
+             "text":"Radial nerve",
+             "link":"https://plabable.com/comparisons/preview/267"
+          }
+       ]
+    },
+    {  
+       "question":"A 30 year old man who served in the army 6 months ago presents with lack of interest in enjoyable activities and feeling low. He often wakes up in the middle of the night because of nightmares of gun fire. He feels irritable and has difficulty concentrating. He tries not to watch the news as it reminds him of war. What is the SINGLE most appropriate initial therapy?",
+       "choices":[  
+          {  
+             "text":"Citalopram                                                            \n                              \n                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Lofepramine                                                          \n                              \n                                                           ",
+             "value":2
+          },
+          {  
+             "text":"Cognitive behavioural therapy (CBT)\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Chlordiazepoxide                                                           \n                              \n                              \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Desensitization                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":3,
+       "explanation":"This man is suffering from post-traumatic stress disorderPost-traumatic stress disorder (PTSD) develops following a traumatic event. In this case, it was war that stimulated PTSD.Post-traumatic stress disorder (PTSD)Develops following a traumatic eventFeaturesRe-experiencing:Flashbacks, nightmaresAvoidance: Avoiding people, situations or circumstances resembling or associated with the eventHyperarousalHypervigilance for threat, exaggerated startle response, sleep problems, irritability and difficulty concentratingEmotional numbingLack of ability to experience feelingsManagementTrauma-focused cognitive behavioural therapy (TF-CBT) and eye movement desensitization and reprocessing (EMDR): are first-line treatmentsIt is very common to have questions with a patient with clear symptoms of PTSD and the question would ask which is first line. If CBT is present, that is usually the answer.SSRI's would be second line. e.g. paroxetine, sertraline are licensed for PTSD. Other unlicensed possibilities include: fluoxetine, citalopram, escitalopram, and fluvoxamine.If you find all these names of SSRI's difficult to remember. Just remember these 3 → Paroxetine, sertraline, and fluoxetine.Reference:https://www.nice.org.uk/guidance/cg26/chapter/1-guidancehttp://patient.info/doctor/post-traumatic-stress-disorder-pro",
+       "links":[  
+          {  
+             "text":"https://www.nice.org.uk/guidance/cg26/chapter/1-guidance",
+             "link":"https://www.nice.org.uk/guidance/cg26/chapter/1-guidance"
+          },
+          {  
+             "text":"http://patient.info/doctor/post-traumatic-stress-disorder-pro",
+             "link":"http://patient.info/doctor/post-traumatic-stress-disorder-pro"
+          }
+       ]
+    },
+    {  
+       "question":"A 32 year old man who was rescued from a building on fire presents to A&E unconscious. He has no evidence of burns or any external injuries. His heart rate is 135 beats per minute and his blood pressure is 85/55 mmHg. What is the SINGLE most appropriate management?",
+       "choices":[  
+          {  
+             "text":"Tight-fitting mask with 100% oxygen                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"24% oxygen by face mask                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Hyperbaric oxygen in a hyperbaric chamber\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Intubate and provide IPPV on 100% oxygen                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Refer to specialist unit                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":4,
+       "explanation":"As this patient is unconscious, we need to intubate and provide IPPV on 100 % O2. For a conscious patient use a tight-fitting mask with an O2 reservoir.The decision for hyperbaric oxygen therapy (HBOT) is a difficult one and there are many debates about the added value provided by hyperbaric oxygen. As this patient is unconscious one might suggest a transfer to a hyperbaric chamber but even so, this will take time as you would need to call the Poisons Information Service and find the nearest locations of hyperbaric chambers. In the current NICE guidelines, treatment with hyperbaric oxygen is not currently recommended, because there is insufficient evidence that hyperbaric oxygen therapy improves long-term outcomes of people with severe carbon monoxide poisoning, compared with standard oxygen therapy. Thus, based on NICE guidelines, for any question with CO poisoning, hyperbaric oxygen therapy will NOT be the answer.If this question was rewritten and asked for “What is the SINGLE most appropriate INITIAL management?”, then mask with 100% oxygen would be a valid answer because one would give 100% oxygen by mask first while preparing for intubation.The decision for hyperbaric oxygen therapy (HBOT) is a difficult one and there are many debates about the added value provided by hyperbaric oxygen. As this patient is unconscious one might suggest a transfer to a hyperbaric chamber but even so, this will take time as you would need to call the Poisons Information Service and find the nearest locations of hyperbaric chambers. In the current NICE guidelines, treatment with hyperbaric oxygen is not currently recommended, because there is insufficient evidence that hyperbaric oxygen therapy improves long-term outcomes of people with severe carbon monoxide poisoning, compared with standard oxygen therapy. Thus, based on NICE guidelines, for any question with CO poisoning, hyperbaric oxygen therapy will NOT be the answer.If this question was rewritten and asked for “What is the SINGLE most appropriate INITIAL management?”, then mask with 100% oxygen would be a valid answer because one would give 100% oxygen by mask first while preparing for intubation.Carbon monoxide poisoning",
+       "links":[  
+          {  
+             "text":"Carbon monoxide poisoning",
+             "link":"https://plabable.com/comparisons/preview/103"
+          }
+       ]
+    },
+    {  
+       "question":"A 62 year old man had a bowel resection 3 days ago for colorectal cancer. His urine output has been low since the procedure and he is now becoming breathless. He has a blood pressure of 130/95 mmHg. On auscultation, he has crackles at both lung bases and on palpation, he has sacral oedema. His blood tests show:",
+       "choices":[  
+          {  
+             "text":"Bolus of 20 units of insulin                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Calcium resonium                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Sodium bicarbonate\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Intravenous fluid                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"10 units of insulin and 50 ml of 50% glucose infusion                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":5,
+       "explanation":"The most significant point to highlight in this case is his potassium levels. His potassium levels are high enough to cause a life-threatening arrhythmia. The high levels of potassium could be due to many reasons but it is likely that he is suffering from acute kidney injury due to heart failure causing low blood volumes.The hyperkalaemia needs to be addressed first to prevent cardiac arrest.Shifting potassium intracellularly is a useful holding measure in life threatening hyperkalaemia. This can be done quickly by administering Insulin Actrapid® 10 units in 50 mL of Glucose 50% intravenously over 30 minutes via a volumetric pump. Insulin stimulates cellular uptake of potassium, so it drops serum potassium levels rapidly, and glucose is given with insulin to prevent hypoglycemia. This would reduce serum potassium levels by 0.65 - 1.0mmol/L but the reduction only last for about an hour. This is usually followed by monitoring blood glucose after 15 minutes, 30 minutes and then hourly for up to 6 hours as there is a risk of late hypoglycaemia. Again this regimen would differ depending on your local hospital guideline for hyperkalaemia. Just remember that capillary blood glucose needs to be checked before, during and after insulin-glucose infusion.Other methods that can be used to treat life threatening hyperkalaemia include:10-20 mg nebulised salbutamol - this reduces serum potassium (0.5-1.0 mmol/L) in 15-30 minutes and lasts for two hoursIt is also important to check potassium 30 minutes afterwards and if there is a good response, check U&E 1-2 hours later.It is important to remember that shifting potassium intracellularly to treat life threatening hyperkalaemia does not reduce total body potassium, and after two to six hours, there is an efflux of potassium back out into the extracellular space resulting in serum levels as high or sometimes even higher than at the outset. Therefore, any of the steps mentioned must be combined with attempting to reduce total body potassium. This can be done by:Avoiding medications which can raise potassiumPromote urinary potassium loss Intravenous normal saline as long as the patient is not significantly overloaded (In this stem, you would not be giving IV fluids as he has heart failure and is clearly fluid overloaded given his clinical features of crackles at both lung bases and sacral oedema on palpation)If well hydrated consider starting or increasing the dose of a loop diuretic.Remove excess potassiumCalcium Resonium® has a slow onset of action (at least 2-6 hours) (This is the reason it is not the answer in this question. The action to correct hyperkalaemia is too slow. Calcium Resonium® has no role in an acute situation)DialysisThis is useful if all the above measures have been done and the patient still has high serum potassiumNote: Dialysis is also likely to be needed if potassium is very high ( >7.5 mmol/L) or patient is oligo or anuric. In this question, if dialysis was present, it would be a better option to pick rather than insulin-glucose infusion because this patient is having acute renal failure and is anuric. If haemodialysis is performed within 15-30 minutes then treatments to move potassium into cells are unlikely to be helpful and may make potassium removal on dialysis more difficult.Sodium bicarbonate may be useful in the setting of resistant hyperkalaemia with acidosis. It should only be considered if pH is < 7.2. The use of sodium bicarbonate is controversial in patients with acidosis and there is still insufficient evidence to justify routine use. It is therefore likely to always be the WRONG answer in the PLAB part 1 test in the context of hyperkalaemia.If intravenous calcium gluconate was in one of the options, that would also be a correct answer because it is needed to stabilise the cardiac membrane to prevent arrhythmias. Intravenous calcium has rapid effects, resulting in improvement of ECG abnormalities within minutes of administration. Reference:https://patient.info/doctor/hyperkalaemia-in-adultsHyperkalaemia",
+       "links":[  
+          {  
+             "text":"https://patient.info/doctor/hyperkalaemia-in-adults",
+             "link":"https://patient.info/doctor/hyperkalaemia-in-adults"
+          },
+          {  
+             "text":"Hyperkalaemia",
+             "link":"https://plabable.com/comparisons/preview/81"
+          }
+       ]
+    },
+    {  
+       "question":"A 31 year old Jehovah’s Witness was in a car accident and brought into the Emergency Department. He has lost a massive amount of blood. In the Emergency Department, he is given intravenous fluids. He is in critical condition and blood products are needed but he refuses any form of blood products due to his religious beliefs. What is the SINGLE most appropriate next step?",
+       "choices":[  
+          {  
+             "text":"Transfuse blood against his will                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Respect his decision and do not transfuse blood                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Contact the police\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Involve social services                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Seek legal advice                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":2,
+       "explanation":"Jehovah's Witnesses and Blood transfusionYou must respect a competent patient's decision to refuse an investigation or treatment, even if you think their decision is wrong or irrational. You may advise the patient of your clinical opinion, but you must not put pressure on them to accept your advice. You must be careful that your words and actions do not imply judgement of the patient or their beliefs and values.Many Jehovah's Witnesses have strong objections to the use of blood and blood products, and may refuse them even if they may die as a result. Hospital liaison committees established by the Watch Tower Society (the governing body of Jehovah's Witnesses) can advise on current Society policy. They also keep details of hospitals and doctors who are experienced in 'bloodless' medical procedures. Reference:http://www.gmc-uk.org/guidance/ethical_guidance/21181.asphttp://www.gmc-uk.org/guidance/ethical_guidance/21181.asp",
+       "links":[  
+          {  
+             "text":"http://www.gmc-uk.org/guidance/ethical_guidance/21181.asp",
+             "link":"http://www.gmc-uk.org/guidance/ethical_guidance/21181.asp"
+          }
+       ]
+    },
+    {  
+       "question":"A 57 year old man presents to A&E with central abdominal and lower back pain associated with feeling faint and sweaty. The pain started very suddenly and it is very severe. His heart rate is 105 bpm and blood pressure is 88/50 mmHg. On physical examination, there is a tender pulsatile abdominal mass and his left femoral pulse is absent. What is the SINGLE most appropriate initial investigation?",
+       "choices":[  
+          {  
+             "text":"Ultrasound                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Sigmoidoscopy                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Barium enema\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"X-ray of the abdomen                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Magnetic resonance imaging of the abdomen                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":1,
+       "explanation":"This is a classic picture of a ruptured abdominal aneurysm.An ultrasound scan is the only appropriate investigation given the options.Questions would usually have either an ultrasound or CT abdomen as one of the choices for a ruptured aortic aneurysm. Both choices are correct. It is important to note that both USS or CT scan can be performed. Although, it may be safer and quicker to perform USS in the ED, rather than transfer the patient for CT scan.",
+       "links":[  
+ 
+       ]
+    },
+    {  
+       "question":"A 32 year old lady has recently become more active over the past year. She sleeps less and recently bought a house and 2 new cars. She notices that her sex drive has increased. She often starts a task but is not able to finish it as she has difficulty in focusing on one task alone. What is the SINGLE most likely diagnosis?",
+       "choices":[  
+          {  
+             "text":"Bipolar disorder                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Mania                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Hypomania \n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Schizophrenia                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Attention deficit hyperactivity disorder (ADHD)                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":3,
+       "explanation":"The symptoms here are representative of hypomania which can be thought of as a milder form of mania. With hypomania, there is higher than normal energy levels but they do not generally lead to hospitalization whereas manic episodes usually last for a week or more and may result in hospitalization. Usually, if the stem includes grandiose ideas, hallucinations or delusions PLUS elevated moods, then pick mania, otherwise pick hypomania.It is especially important to remember that hypomania does NOT present with hallucinations or delusions. This would often be the difference between picking mania and picking hypomania as the answer.ManiaHypomaniaAbnormally elevated moodA lesser degree of mania with persistent mild elevation of mood and increased activity and energyHallucinations or delusionsNo hallucinations or delusionsSignificant impairment of the patient's day-to-day functioningNo significant impairment of the patient's day-to-day functioningThese are classic signs of mania and hypomania:Elevated moodIrritabilityIncreased energy and activity →This may be seen as increased performance at work or sociallyIncreased self-esteemIncreased sociability and talkativenessIncreased sex driveReduced need for sleepDifficulty in focusing on one task alone (tasks often started, but not finished)The presence of psychotic symptoms differentiates mania from hypomaniaPsychotic symptomsDelusions of grandeurAuditory hallucinationsRemember, for the exam:If you see a patient with high moods  → Likely to be hypomaniaIf you see a patient with high moods and other times depressive moods → Likely to be bipolar disorderIf you see a patient with high moods and psychotic symptoms → Likely to be maniaReference:http://patient.info/doctor/bipolar-disorder-prohttps://cks.nice.org.uk/bipolar-disorder#!diagnosissub",
+       "links":[  
+          {  
+             "text":"http://patient.info/doctor/bipolar-disorder-pro",
+             "link":"http://patient.info/doctor/bipolar-disorder-pro"
+          },
+          {  
+             "text":"https://cks.nice.org.uk/bipolar-disorder#!diagnosissub",
+             "link":"https://cks.nice.org.uk/bipolar-disorder#!diagnosissub"
+          }
+       ]
+    },
+    {  
+       "question":"A 24 year old man falls on an outstretched hand while playing football. He comes in complaining of pain at the base of the thumb. On physical examination, he is tender to palpate over the anatomic snuff-box. Wrist movement, particularly pronation followed by ulnar deviation is painful. X-rays are read as negative. What is the SINGLE most appropriate next management?",
+       "choices":[  
+          {  
+             "text":"Reassurance and analgesia                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Surgery                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Immobilization of the wrist and review in 2 weeks\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Scaphoid cast for 6 weeks                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"High arm sling and rest                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":3,
+       "explanation":"This is a typical presentation of a scaphoid fracture.It is a very debatable question. The answers C and D both may seem right. But the more appropriate answer of the two would be C.First we need to understand Scaphoid fractures.A very typical scenario is a young man who falls on his outstretched hand with forced dorsiflexion. X-rays are usually negative but if repeated in 2 weeks become positive.They are also infamous because of a high rate of nonunion. Signs: Tender in anatomical snuff box and over scaphoid tubercle, pain on axial compression of the thumb, and on ulnar deviation of the pronated wrist, or supination against resistance. If initial X-rays are negative, cast and re-x-ray in 2 weeks.Unfortunately, for this question, re-x ray was not an option. So many candidates would have picked “D. Scaphoid cast for 6 weeks” . We asked orthopaedic registrars regarding this question, and most would agree that “C. Immobilization of the wrist and review in 2 weeks” would be a better answer because you should not cast for 6 weeks without knowing if there is actually a fracture. Thus immobilize for 2 weeks, and review (and obtain X-rays). If fracture is seen after 2 weeks, then cast for another 4 more weeks.Reference:http://patient.info/doctor/wrist-fractures",
+       "links":[  
+          {  
+             "text":"http://patient.info/doctor/wrist-fractures",
+             "link":"http://patient.info/doctor/wrist-fractures"
+          }
+       ]
+    },
+    {  
+       "question":"A 24 year old college student presents to A&E with nausea, vomiting, headache, neck stiffness and a fever of 38.4°C. What is the SINGLE most appropriate empirical antibiotic to be started immediately?",
+       "choices":[  
+          {  
+             "text":"Intravenous Ceftriaxone                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Intramuscular Benzylpenicillin                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Intravenous Gentamicin\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Intravenous Tazobactam                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Intravenous Amoxicillin                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":1,
+       "explanation":"She has signs of meningitis. Intravenous Ceftriaxone needs to be administered immediately. In a hospital setting, give intravenous third generation cephalosporin antibiotics (Ceftriaxone or Cefotaxime)If this exact same questions was given but she presented to her GP (or was found outside the hospital), then Benzylpenicillin IM or IV would be the correct answer. If you suspect meningitis and patient is not yet in the hospital give IM/IV benzylpenicillin and send patient to the hospital.If this exact same question was given, but there was a diagnosis of Listeria, then IV amoxicillin and gentamicin would be the correct answerIf this exact same question was given, but she is penicillin or cephalosporin allergic, then chloramphenicol would be the answer. If the patient has a history of immediate hypersensitivity reaction to penicillin or to cephalosporins the BNF recommends using chloramphenicol.InvestigationsGenerally, treatment for meningitis should be started before doing any investigations due to the seriousness of the disease.RashIf patient has got a rash, then perform blood culture as the diagnosis is most likely meningococcal septicaemia. The causative organism is Neisseria meningitides.If there is no rash then a lumbar puncture would be a better answer, but this can only be done if there are no signs of raised intracranial pressureManagement of contactsProphylaxis (oral ciprofloxacin or rifampicin) needs to be offered to household and close contacts of patients affected with meningococcal meningitisSummaryPre-hospital setting + Suspect meningococcal disease → IM benzylpenicillinHospital setting + Suspect meningococcal disease →IV cefotaximeMeningitis caused by listeria → IV amoxicillin and gentamicinHypersensitivity reaction to penicillin or cephalosporins → chloramphenicolProphylaxis to close contact (meningococcal meningitis) → oral ciprofloxacin or rifampicinReference:https://www.nice.org.uk/guidance/CG102/chapter/1-Guidancehttps://www.gov.uk/government/uploads/system/uploads/attachment_data/file/322008/Guidance_for_management_of_meningococcal_disease_pdf.pdf",
+       "links":[  
+          {  
+             "text":"https://www.nice.org.uk/guidance/CG102/chapter/1-Guidance",
+             "link":"https://www.nice.org.uk/guidance/CG102/chapter/1-Guidance"
+          },
+          {  
+             "text":"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/322008/Guidance_for_management_of_meningococcal_disease_pdf.pdf",
+             "link":"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/322008/Guidance_for_management_of_meningococcal_disease_pdf.pdf"
+          }
+       ]
+    },
+    {  
+       "question":"A 14 year old boy presents with a 3 hour history of severe left testicular pain. He has no urinary symptoms and is otherwise well. On examination, the right testes looks normal but the left hemiscrotum is swollen and acutely tender. The pain is not eased by elevation of the testes. What is the SINGLE most appropriate initial step?",
+       "choices":[  
+          {  
+             "text":"Mid stream urine                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Ultrasound scan of the testes                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Urethral Swab\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Exploratory surgery                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Computed tomography scan of the testes                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":4,
+       "explanation":"This boy is having a testicular torsion. Testicular torsionKey features of testicular torsion include:Severe, sudden onset testicular painTypically affects adolescents and young malesOn examination testis is tender and pain not eased by elevationRemember: In testicular torsion, lifting the testis up over the symphysis increases pain, whereas in epididymitis this usually relieves pain. Urgent surgery is indicatedManagement:Urgent exploratory surgery is needed to prevent ischaemia of the testicleColour Doppler USS (reduced arterial blood flow in the testicular artery) and radionuclide scanning (decreased radioisotope uptake) can be used to diagnose testicular torsion, but in many hospitals, these tests are not readily available and the diagnosis is based on symptoms and signs. Scrotal exploration should be undertaken as a matter of urgency. Delay in relieving the twisted testis results in permanent ischaemic damage to the testis, causing atrophy.This is a very high yield question and in most cases if you suspect testicular torsion the answer would be exploratory surgery (or urgent surgery).REMEMBER: if clinical suspicion is high, surgical intervention should not be delayed for the sake of further investigation!Reference:http://emedicine.medscape.com/article/778086-treatmenthttp://patient.info/doctor/torsion-of-the-testis-pro",
+       "links":[  
+          {  
+             "text":"http://emedicine.medscape.com/article/778086-treatment",
+             "link":"http://emedicine.medscape.com/article/778086-treatment"
+          },
+          {  
+             "text":"http://patient.info/doctor/torsion-of-the-testis-pro",
+             "link":"http://patient.info/doctor/torsion-of-the-testis-pro"
+          }
+       ]
+    },
+    {  
+       "question":"A 22 year old man presents with a 2 month history of diarrhoea. He says his bowels have not been right for the past few months and he frequently has to run to the toilet. These symptoms seemed to be improving up until two weeks ago and for the past week, he notices the presence of blood when he passes stool. On examination, there are aphthous oral ulcers. He has not lost any weight and has a good appetite. Examination of his abdomen demonstrates mild tenderness in the left lower quadrant but no guarding. What is the SINGLE most likely diagnosis?",
+       "choices":[  
+          {  
+             "text":"Ulcerative colitis                              \n                             ",
+             "value":1
+          },
+          {  
+             "text":"Crohn's disease                                                         ",
+             "value":2
+          },
+          {  
+             "text":"Infective diarrhoea\n                              \n                             ",
+             "value":3
+          },
+          {  
+             "text":"Colorectal cancer                             \n                             ",
+             "value":4
+          },
+          {  
+             "text":"Anal Fissure                                                            ",
+             "value":5
+          }
+       ],
+       "rightAsnwer":1,
+       "explanation":"This is most likely ulcerative colitis. Note that aphthous oral ulcers can actually be seen in both ulcerative colitis and crohn's disease although commonly, literature would classify aphthous oral ulcers to be a feature seen only in crohn's disease. It is also noted that this patient has blood when he passes stools of which the history points more towards ulcerative colitis.This is most likely ulcerative colitis. Note that aphthous oral ulcers can actually be seen in both ulcerative colitis and crohn's disease although commonly, literature would classify aphthous oral ulcers to be a feature seen only in crohn's disease. It is also noted that this patient has blood when he passes stools of which the history points more towards ulcerative colitis.Crohn’s disease vs Ulcerative colitis",
+       "links":[  
+          {  
+             "text":"Crohn’s disease vs Ulcerative colitis",
+             "link":"https://plabable.com/comparisons/preview/24"
+          }
+       ]
+    }
+ ]
